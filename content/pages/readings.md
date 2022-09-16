@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the table of contents of the required textbook
+  for the course and a list of additional readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
